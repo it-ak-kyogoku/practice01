@@ -1,0 +1,9 @@
+body {
+  background-color: #f8f9fa; /* 背景を薄いグレーに */
+  color: #333; /* 文字色を濃いグレーに */
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+h1 {
+  color: #0066cc; /* 見出しを青系に */
+}
